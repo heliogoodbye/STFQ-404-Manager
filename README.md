@@ -11,8 +11,6 @@ Once configured, whenever a visitor lands on a non-existent page, WordPress will
 
 ## How to use STFQ 404 Manager
 
-Sure, here are step-by-step instructions for using the "STFQ 404 Manager" plugin:
-
 1. **Installation**:
    - Download the "STFQ 404 Manager" plugin.
    - Upload the plugin folder to the `wp-content/plugins/` directory of your WordPress installation.
